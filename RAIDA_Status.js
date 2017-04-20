@@ -1,4 +1,4 @@
-
+<script type="text/javascript">
          var countries = new Array( "Australia", "Macedonia", "Philippines", "Serbia","Bulgaria","Russia","Switzerland","United Kingdom","Punjab","India", "Texas","California","Romania","Taiwan", 
  "Moscow", "St.Petersburg", "Columbia", "Singapore", "Germany", "San Francisco", "Venezuela", "Hyperbad", "USA", "Sofia", "Luxenburg" ); 
          var failsEcho = new Array( false,false,false,false,false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false); 
@@ -34,3 +34,4 @@
                  failsDetect[i] = false; 
              }//end for each RAIDA 
          }//end new coin   
+</script>
